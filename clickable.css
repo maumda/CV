@@ -1,0 +1,42 @@
+ .line{
+width: 900px;
+height:0px;
+border-bottom: 1px solid black;
+
+}
+
+#address{
+    text-align: center;
+}
+
+ul li
+{ /*listes*/
+    font-weight: normal;
+}
+ul.carre
+{
+    list-style-type: square;
+}
+
+ol li
+{ 
+    color:black;
+    font-weight: normal;
+}
+
+
+.ConteneurInt{ 
+	margin:auto; 
+	border:1px solid #0000FF;
+	border-radius:25px; 
+	width:96%;
+	background-color:ivory;
+	padding:10px;
+	font-family:arial;
+}
+.ConteneurExt{ 
+	margin:auto; 
+	width:96%;
+	background-color:#EDEDED;
+	padding:10px;
+}
